@@ -30,6 +30,3 @@ jobs:
     - run: yarn run test --runInBand --no-cache
       env:
         CI: true
-    - run: yarn run deploy
-      env:
-        CHOKIDAR_USEPOLLING: true

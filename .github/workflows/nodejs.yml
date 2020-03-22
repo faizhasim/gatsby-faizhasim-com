@@ -31,3 +31,5 @@ jobs:
       env:
         CI: true
     - run: yarn run deploy
+      env:
+        CHOKIDAR_USEPOLLING: true

@@ -282,6 +282,7 @@ exports[`TagTemplate renders correctly 1`] = `
               className="feed__item-description"
             >
               test_0
+              <br />
             </p>
             <a
               className="feed__item-readmore"
@@ -330,6 +331,7 @@ exports[`TagTemplate renders correctly 1`] = `
               className="feed__item-description"
             >
               test_1
+              <br />
             </p>
             <a
               className="feed__item-readmore"

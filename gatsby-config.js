@@ -186,6 +186,14 @@ module.exports = {
       }
     },
     {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://www.faizhasim.com',
+        sitemap: 'https://www.faizhasim.com/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
+    },
+    {
       resolve: 'gatsby-plugin-manifest',
       options: {
         name: siteConfig.title,

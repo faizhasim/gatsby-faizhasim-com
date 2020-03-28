@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://www.faizhasim.com',
   pathPrefix: '/',
-  title: 'Software, Programming and Thoughts | faizhasim.com',
+  title: 'faizhasim | Software, Programming and Thoughts',
   subtitle: 'Software, Programming and Thoughts',
   copyright: '© All rights reserved.',
   disqusShortname: 'faizhasim',
@@ -18,10 +18,6 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {

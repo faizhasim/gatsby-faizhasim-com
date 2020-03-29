@@ -10,10 +10,10 @@ tags:
 description: "I wanted to help my son to manage his time better, expose him on technology and let him discover anything related to tech
               himself in a controlled environment. I have a few options, but ultimately, I am experimenting with Raspberry PI setup
               first. This post is to share my considered options and the challenges I faced."
-socialImage: "/media/rasberry-pi-black-at-home.jpeg"
+socialImage: "/media/raspberry-pi-black-at-home.jpeg"
 ---
 
-![](/media/rasberry-pi-black-at-home.jpeg)
+![Raspberry PI Black at Home](/media/raspberry-pi-black-at-home.jpeg)
 
 I wanted to help my son to manage his time better, expose him on technology and let him discover anything related to tech
 himself in a controlled environment. I have a few options, but ultimately, I am experimenting with Raspberry PI setup

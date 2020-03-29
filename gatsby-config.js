@@ -121,6 +121,8 @@ module.exports = {
             options: {
               maxWidth: 960,
               withWebp: true,
+              sizeByPixelDensity: true,
+              tracedSVG: true,
               ignoreFileExtensions: [],
             }
           },
@@ -137,13 +139,13 @@ module.exports = {
       }
     },
     'gatsby-transformer-sharp',
-    'gatsby-plugin-sharp',
-    'gatsby-plugin-netlify',
     {
-      resolve: 'gatsby-plugin-netlify-cms',
+      resolve: 'gatsby-plugin-sharp',
       options: {
-        modulePath: `${__dirname}/src/cms/index.js`,
-      }
+        useMozJpeg: false,
+        stripMetadata: true,
+        defaultQuality: 75,
+      },
     },
     {
       resolve: 'gatsby-plugin-google-gtag',

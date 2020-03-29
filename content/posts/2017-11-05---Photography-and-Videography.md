@@ -9,7 +9,7 @@ tags:
   - photography
   - videography
 description: "It has been a very long time since I update this blog. There is a lot of things happening in my life since then. Lots of hatred, lots of betrayal, lots of negativity and bad people. But, in this dark days of my life, I found courage to move forward as I see the glimpse of sunshine over the horizon."
-socialImage: "/media/klcc.jpeg"
+socialImage: "/media/klcc.jpg"
 ---
 
 It has been a very long time since I update this blog. There is a lot of things happening in my life since then. Lots of hatred, lots of betrayal, lots of negativity and bad people. But, in this dark days of my life, I found courage to move forward as I see the glimpse of sunshine over the horizon.

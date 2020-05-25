@@ -7,7 +7,9 @@ slug: "pour-over-coffee-yirgacheffe-coffee-from-perk"
 category: "Coffee"
 tags:
   - "coffee"
-description: "to write"
+description: "Today's post is about my current interest in coffee brewing using V60 pour over. I subscribed
+              for freshly roasted coffee service from Perk. If your are interested, get their bean from my link to
+              get RM25.00 off your first order at https://perkcoffee.co/my/?promo=mohdfaiz5701."
 socialImage: "/media/v60-coffee.jpg"
 ---
 

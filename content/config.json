@@ -1,9 +1,9 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "description": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "title": "faizhasim | Software, Programming and Thoughts",
+  "url": "https://www.faizhasim.com",
+  "description": "Software, Programming and Thoughts",
   "copyright": "© All rights reserved.",
-  "googleAnalyticsId": "G-MSQGQG14PK",
+  "googleAnalyticsId": "UA-33905890-2",
   "pathPrefix": "/",
   "feedLimit": 4,
   "menu": [
@@ -14,24 +14,20 @@
     {
       "title": "About me",
       "url": "/pages/about"
-    },
-    {
-      "title": "Contact me",
-      "url": "/pages/contacts"
     }
   ],
   "author": {
-    "title": "John Doe",
-    "photo": "/logo.png",
-    "description": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "title": "Mohd Faiz Hasim",
+    "photo": "/logo.jpg",
+    "description": "Software, Programming and Thoughts",
     "contacts": [
       {
         "name": "github",
-        "contact": "alxshelepenok"
+        "contact": "faizhasim"
       },
       {
         "name": "linkedin",
-        "contact": "alxshelepenok"
+        "contact": "faizhasim"
       }
     ]
   }

@@ -28,7 +28,9 @@ I am not saying that I am a true coffee aficionado, but the taste that I'm looki
 with a bit of mellow and sweetness. At the same time, I want to be pragmatic in terms of the approach, the money/cost
 factor, the time and effort and more importantly the joy of a cup of good coffee.
 
-`youtube:https://www.youtube.com/embed/fo8tEu5uIo4`
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo8tEu5uIo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 With Perks coffee, I have tried other blends or origins, but I end up getting this bean for pour over coffee. There are
 other reputable brewers in the region. Coffee like [Suke Quto](https://pppcoffee.com.my/products/suke-quto-washed-single-origin-espresso)

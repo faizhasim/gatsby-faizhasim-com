@@ -22,4 +22,7 @@ The code itself can be found on Github [faizhasim/lightning-talk-akka-persistenc
 
 And here is a random video that I made last year. 
 
-`youtube:https://www.youtube.com/embed/Bi_tC_S0riI`
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bi_tC_S0riI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+k

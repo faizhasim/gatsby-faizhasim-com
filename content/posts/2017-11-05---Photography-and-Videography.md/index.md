@@ -26,4 +26,7 @@ By the way, I started to rediscover the beauty in capturing moments in life, in 
 
 Now, imagine videography...
 
-`youtube:https://www.youtube.com/embed/aIC4NUsxvtI`
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIC4NUsxvtI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+

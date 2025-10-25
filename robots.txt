@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://www.faizhasim.com/sitemap.xml
-Host: https://www.faizhasim.com

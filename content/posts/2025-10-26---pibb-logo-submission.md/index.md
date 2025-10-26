@@ -33,6 +33,15 @@ socialImage: "./pibb-full-dark-theme-transparent.svg"
 </figure>
 
 <figure>
+  <img src="./pibb-full-light-theme-transparent.svg" alt="pibb-full-light-theme-transparent" />
+  <figcaption>Full Logo – Light Theme - Transparent</figcaption>
+</figure>
+
+<figure>
+  <img src="./pibb-full-dark-theme-transparent.svg" alt="pibb-full-dark-theme-transparent" />
+  <figcaption>Full Logo – Dark Theme - Transparent</figcaption>
+</figure>
+<figure>
   <img src="./pibb-full-dark-theme-with-background.svg" alt="pibb-full-dark-theme-with-background" />
   <figcaption>Full Logo – Dark Theme - Variant A</figcaption>
 </figure>

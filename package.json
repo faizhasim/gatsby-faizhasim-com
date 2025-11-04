@@ -24,8 +24,8 @@
     "version": "bun ./internal/scripts/up-version.mjs"
   },
   "dependencies": {
-    "@alxshelepenok/diesel": "1.0.1365",
-    "@alxshelepenok/diesel-extensions": "1.0.1241",
+    "@alxshelepenok/diesel": "1.0.1366",
+    "@alxshelepenok/diesel-extensions": "1.0.1242",
     "@sentry/gatsby": "^8.45.1",
     "@sentry/tracing": "^7.120.4",
     "classnames": "^2.5.1",
@@ -74,7 +74,7 @@
     "postcss-scss": "^4.0.9",
     "react-test-renderer": "^18.3.1",
     "rimraf": "6.0.1",
-    "sass": "1.93.2",
+    "sass": "1.93.3",
     "semantic-release": "^24.2.9",
     "source-map-support": "^0.5.21",
     "typescript": "^5.9.3"

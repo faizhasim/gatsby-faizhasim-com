@@ -27,7 +27,7 @@ jobs:
 
       - name: Cache Bun dependencies
         id: bun-cache
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: |
             ~/.bun
@@ -72,7 +72,7 @@ jobs:
 
       - name: Cache Bun dependencies
         id: bun-cache
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: |
             ~/.bun
@@ -86,7 +86,7 @@ jobs:
         run: bun install --frozen-lockfile
 
       - name: Cache Build Pages dependencies
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: |
             ~/.bun
